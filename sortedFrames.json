@@ -1,0 +1,1566 @@
+{
+  "`abandoned church frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`aerial frame`": {
+    "low": 40.0,
+    "high": 50.0
+  },
+  "`alchemist frame`": {
+    "low": 40.0,
+    "high": 50.0
+  },
+  "`alien alloy frame`": {
+    "low": 4.0,
+    "high": 10.0
+  },
+  "`apollo frame`": {
+    "low": 0.0,
+    "high": 0.0
+  },
+  "`arabian nights frame`": {
+    "low": 5.0,
+    "high": 8.0
+  },
+  "`arcade machine frame`": {
+    "low": 45.0,
+    "high": 45.0
+  },
+  "`arcana frame`": {
+    "low": 45.0,
+    "high": 50.0
+  },
+  "`archangel frame`": {
+    "low": 40.0,
+    "high": 40.0
+  },
+  "`archery frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`architectura frame`": {
+    "low": 5.0,
+    "high": 10.0
+  },
+  "`archlight frame`": {
+    "low": 49,
+    "high": 50
+  },
+  "`art nouveau frame`": {
+    "low": 4.0,
+    "high": 9.0
+  },
+  "`astrolabe frame`": {
+    "low": 32.0,
+    "high": 32.0
+  },
+  "`autumn breeze frame`": {
+    "low": 32.0,
+    "high": 40.0
+  },
+  "`autumn view frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`aztec jungle frame`": {
+    "low": 40.0,
+    "high": 40.0
+  },
+  "`azure claw frame`": {
+    "low": 45,
+    "high": 50
+  },
+  "`bamboo stalks frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`banliang frame`": {
+    "low": 18.0,
+    "high": 20.0
+  },
+  "`barbecue frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`baroque frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`basic frame voucher`": {
+    "low": 2.5,
+    "high": 3
+  },
+  "`beach towel frame`": {
+    "low": 3.0,
+    "high": 3.0
+  },
+  "`beachside frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`beauty frame`": {
+    "low": 2,
+    "high": 3
+  },
+  "`bewitched parchment frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`black tiara frame`": {
+    "low": 30.0,
+    "high": 40.0
+  },
+  "`bloodmoon bite frame`": {
+    "low": 35.0,
+    "high": 40.0
+  },
+  "`blueprint frame`": {
+    "low": 45.0,
+    "high": 50.0
+  },
+  "`bone construct frame`": {
+    "low": 20.0,
+    "high": 30.0
+  },
+  "`boneslasher frame`": {
+    "low": 35,
+    "high": 40
+  },
+  "`bookworm frame`": {
+    "low": 35.0,
+    "high": 35.0
+  },
+  "`brass frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`brawler frame`": {
+    "low": 30.0,
+    "high": 30.0
+  },
+  "`bridesmaid frame`": {
+    "low": 55.0,
+    "high": 60.0
+  },
+  "`broken mirror frame`": {
+    "low": 40.0,
+    "high": 43.0
+  },
+  "`bronze rank frame`": {
+    "low": 3.0,
+    "high": 5.0
+  },
+  "`bubble bath frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`bubble fountain frame`": {
+    "low": 20.0,
+    "high": 25.0
+  },
+  "`bubble tea frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`buccaneer frame`": {
+    "low": 8.0,
+    "high": 10.0
+  },
+  "`budokai frame`": {
+    "low": 40,
+    "high": 50
+  },
+  "`bunny paws frame`": {
+    "low": 40.0,
+    "high": 50.0
+  },
+  "`butler frame`": {
+    "low": 40.0,
+    "high": 50.0
+  },
+  "`butterfly garden frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`butterfly woods frame`": {
+    "low": 70.0,
+    "high": 75.0
+  },
+  "`caged essence frame`": {
+    "low": 8.0,
+    "high": 8.0
+  },
+  "`candy land frame`": {
+    "low": 5.0,
+    "high": 5.0
+  },
+  "`carnations frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`carousel frame voucher`": {
+    "low": 33,
+    "high": 35
+  },
+  "`carrara marble frame`": {
+    "low": 50.0,
+    "high": 50.0
+  },
+  "`carved stone frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`case files frame`": {
+    "low": 55.0,
+    "high": 60.0
+  },
+  "`casino frame`": {
+    "low": 40.0,
+    "high": 40.0
+  },
+  "`cat cafe frame`": {
+    "low": 55.0,
+    "high": 55.0
+  },
+  "`champion rank frame`": {
+    "low": 15.0,
+    "high": 15.0
+  },
+  "`chaosborn frame`": {
+    "low": 60,
+    "high": 70
+  },
+  "`chefs kitchen frame`": {
+    "low": 60.0,
+    "high": 60.0
+  },
+  "`cherry berry frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`cherry blossom frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`chess frame`": {
+    "low": 40.0,
+    "high": 40.0
+  },
+  "`chocolate bunny frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`chocolate orange frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`chopsticks frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`chrome frame`": {
+    "low": 5,
+    "high": 8
+  },
+  "`circus tent frame`": {
+    "low": 3,
+    "high": 5
+  },
+  "`classroom frame`": {
+    "low": 40.0,
+    "high": 70.0
+  },
+  "`coffee shop frame`": {
+    "low": 20.0,
+    "high": 30.0
+  },
+  "`constellations frame`": {
+    "low": 20.0,
+    "high": 40.0
+  },
+  "`coral reef frame`": {
+    "low": 5.0,
+    "high": 5.0
+  },
+  "`corrupted titanium frame`": {
+    "low": 32.0,
+    "high": 32.0
+  },
+  "`cosmic entity frame`": {
+    "low": 57.0,
+    "high": 58.0
+  },
+  "`crime scene frame`": {
+    "low": 46.0,
+    "high": 61.0
+  },
+  "`crystal mines frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`crystalline locket frame`": {
+    "low": 13.0,
+    "high": 13.0
+  },
+  "`cupids arrow frame`": {
+    "low": 10.0,
+    "high": 10.0
+  },
+  "`cupids lock frame`": {
+    "low": 15.0,
+    "high": 15.0
+  },
+  "`cursed place frame`": {
+    "low": 25.0,
+    "high": 25.0
+  },
+  "`dark cathedral frame`": {
+    "low": 10.0,
+    "high": 10.0
+  },
+  "`dark iron frame`": {
+    "low": 30.0,
+    "high": 35.0
+  },
+  "`desert rose frame`": {
+    "low": 25.0,
+    "high": 30.0
+  },
+  "`destiny frame`": {
+    "low": 52.0,
+    "high": 56.0
+  },
+  "`diamond rank frame`": {
+    "low": 7.0,
+    "high": 7.0
+  },
+  "`divinity frame`": {
+    "low": 10.0,
+    "high": 12.0
+  },
+  "`djinn lamp frame`": {
+    "low": 37,
+    "high": 50
+  },
+  "`dragon balls frame`": {
+    "low": 40.0,
+    "high": 50.0
+  },
+  "`dragon hunt frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`dragonfruit frame`": {
+    "low": 23.0,
+    "high": 40.0
+  },
+  "`earthen frame`": {
+    "low": 55.0,
+    "high": 90.0
+  },
+  "`easel frame`": {
+    "low": 110.0,
+    "high": 150.0
+  },
+  "`edo furin frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`electrified frame`": {
+    "low": 42.0,
+    "high": 45.0
+  },
+  "`electrocell frame`": {
+    "low": 30.0,
+    "high": 30.0
+  },
+  "`elegance frame`": {
+    "low": 10.0,
+    "high": 10.0
+  },
+  "`empyrean frame`": {
+    "low": 42,
+    "high": 45
+  },
+  "`enchanted garden frame`": {
+    "low": 3.0,
+    "high": 5.0
+  },
+  "`exotic birds frame`": {
+    "low": 30.0,
+    "high": 30.0
+  },
+  "`explosion frame`": {
+    "low": 60,
+    "high": 60
+  },
+  "`faerie forest frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`fan service frame`": {
+    "low": 20.0,
+    "high": 24.0
+  },
+  "`festive dinner frame`": {
+    "low": 8.0,
+    "high": 10.0
+  },
+  "`festivus freeze frame`": {
+    "low": 90.0,
+    "high": 90.0
+  },
+  "`festivus lights frame`": {
+    "low": 5.0,
+    "high": 8.0
+  },
+  "`festivus night frame`": {
+    "low": 5.0,
+    "high": 10.0
+  },
+  "`festivus park frame`": {
+    "low": 5.0,
+    "high": 10.0
+  },
+  "`fire and ice frame`": {
+    "low": 35.0,
+    "high": 40.0
+  },
+  "`fire element frame`": {
+    "low": 40.0,
+    "high": 50.0
+  },
+  "`flame temple frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`flowerbuds frame`": {
+    "low": 20.0,
+    "high": 30.0
+  },
+  "`flying dragon frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`forbidden frame`": {
+    "low": 30.0,
+    "high": 40.0
+  },
+  "`fortress frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`french maid frame`": {
+    "low": 30.0,
+    "high": 30.0
+  },
+  "`frills frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`frostborn frame`": {
+    "low": 50,
+    "high": 55
+  },
+  "`frosted glass frame`": {
+    "low": 40.0,
+    "high": 50.0
+  },
+  "`frostwood frame`": {
+    "low": 4.0,
+    "high": 5.0
+  },
+  "`fuselage frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`gaming chair frame`": {
+    "low": 2,
+    "high": 3
+  },
+  "`garden fountain frame`": {
+    "low": 20.0,
+    "high": 35.0
+  },
+  "`garden snake frame`": {
+    "low": 20.0,
+    "high": 45.0
+  },
+  "`gazebo frame`": {
+    "low": 7.0,
+    "high": 15.0
+  },
+  "`geode frame`": {
+    "low": 50.0,
+    "high": 50.0
+  },
+  "`gilded stars frame`": {
+    "low": 30.0,
+    "high": 35.0
+  },
+  "`glinted frame`": {
+    "low": 75.0,
+    "high": 80.0
+  },
+  "`glory frame`": {
+    "low": 55,
+    "high": 57
+  },
+  "`gold rank frame`": {
+    "low": 5.0,
+    "high": 4.0
+  },
+  "`gothic cloak frame`": {
+    "low": 5.0,
+    "high": 6.0
+  },
+  "`gothic ornament frame`": {
+    "low": 40.0,
+    "high": 40.0
+  },
+  "`gothic tower frame`": {
+    "low": 32.0,
+    "high": 32.0
+  },
+  "`groomsman frame`": {
+    "low": 45.0,
+    "high": 45.0
+  },
+  "`grove druid frame`": {
+    "low": 30.0,
+    "high": 30.0
+  },
+  "`hacker frame`": {
+    "low": 180,
+    "high": 190
+  },
+  "`halloween porch frame`": {
+    "low": 30.0,
+    "high": 50.0
+  },
+  "`hanging scrolls frame`": {
+    "low": 23.0,
+    "high": 29.0
+  },
+  "`hannya frame`": {
+    "low": 40.0,
+    "high": 40.0
+  },
+  "`harpstring frame`": {
+    "low": 40.0,
+    "high": 50.0
+  },
+  "`haunted cemetery frame`": {
+    "low": 30.0,
+    "high": 50.0
+  },
+  "`haunted stone frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`heart of silver frame`": {
+    "low": 10.0,
+    "high": 13.0
+  },
+  "`heartbreak frame`": {
+    "low": 33.0,
+    "high": 55.0
+  },
+  "`her bedroom frame`": {
+    "low": 35.0,
+    "high": 35.0
+  },
+  "`heraldic frame`": {
+    "low": 40.0,
+    "high": 50.0
+  },
+  "`higasa frame`": {
+    "low": 55.0,
+    "high": 65.0
+  },
+  "`holiday treats frame`": {
+    "low": 4.0,
+    "high": 5.0
+  },
+  "`holovortex frame`": {
+    "low": 52,
+    "high": 55
+  },
+  "`holy knight frame`": {
+    "low": 40.0,
+    "high": 58.0
+  },
+  "`holy roman frame`": {
+    "low": 40.0,
+    "high": 40.0
+  },
+  "`honeycomb frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`husband frame`": {
+    "low": 20.0,
+    "high": 25.0
+  },
+  "`ice cream parlor frame`": {
+    "low": 9.0,
+    "high": 11.0
+  },
+  "`ice cream sundae frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`ice cube frame`": {
+    "low": 55,
+    "high": 60
+  },
+  "`icicle frame`": {
+    "low": 35.0,
+    "high": 35.0
+  },
+  "`in wonderland frame`": {
+    "low": 3.0,
+    "high": 6.0
+  },
+  "`infinity void frame`": {
+    "low": 83,
+    "high": 90
+  },
+  "`interface frame`": {
+    "low": 100,
+    "high": 125
+  },
+  "`iron rank frame`": {
+    "low": 3.0,
+    "high": 5.0
+  },
+  "`island grotto frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`island luau frame`": {
+    "low": 3.0,
+    "high": 4.0
+  },
+  "`jade cherrywood frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`jamboree frame`": {
+    "low": 24.0,
+    "high": 24.0
+  },
+  "`japanese alley frame`": {
+    "low": 39.0,
+    "high": 50.0
+  },
+  "`jewelry box frame`": {
+    "low": 40.0,
+    "high": 45.0
+  },
+  "`jurassic frame`": {
+    "low": 30.0,
+    "high": 30.0
+  },
+  "`karuta anniversary 2021 frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`karuta anniversary 2022 frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`karuta anniversary 2023 frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`karuta anniversary 2024 frame`": {
+    "low": 5,
+    "high": 10
+  },
+  "`karuta boy frame`": {
+    "low": 5.0,
+    "high": 15.0
+  },
+  "`kawaii bento frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`kimono frame`": {
+    "low": 50.0,
+    "high": 53.0
+  },
+  "`kintsugi frame`": {
+    "low": 40.0,
+    "high": 45.0
+  },
+  "`kitsune frame`": {
+    "low": 15.0,
+    "high": 15.0
+  },
+  "`Kominka frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`kominka frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`Kraken frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`kraken frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`labpunk frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`leather belt frame`": {
+    "low": 30.0,
+    "high": 30.0
+  },
+  "`legend rank frame`": {
+    "low": 600.0,
+    "high": 650.0
+  },
+  "`lich frame`": {
+    "low": 60.0,
+    "high": 65.0
+  },
+  "`life and death frame`": {
+    "low": 30.0,
+    "high": 40.0
+  },
+  "`lifeguard frame`": {
+    "low": 0.0,
+    "high": 0.0
+  },
+  "`lighthouse storm frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`livestream frame`": {
+    "low": 41,
+    "high": 60
+  },
+  "`living dead frame`": {
+    "low": 5.0,
+    "high": 5.0
+  },
+  "`long hair frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`mad scientist frame`": {
+    "low": 7.0,
+    "high": 10.0
+  },
+  "`mad tea party frame`": {
+    "low": 45.0,
+    "high": 45.0
+  },
+  "`magical girl frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`magitek frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`magitor frame`": {
+    "low": 55.0,
+    "high": 60.0
+  },
+  "`magus frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`mahou frame`": {
+    "low": 55.0,
+    "high": 60.0
+  },
+  "`malice tree frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`maneki neko frame`": {
+    "low": 24.0,
+    "high": 55.0
+  },
+  "`manga artist frame`": {
+    "low": 30.0,
+    "high": 35.0
+  },
+  "`manticore frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`mardi gras frame`": {
+    "low": 3.0,
+    "high": 5.0
+  },
+  "`martial artist frame`": {
+    "low": 13.0,
+    "high": 15.0
+  },
+  "`mermaid frame`": {
+    "low": 40.0,
+    "high": 45.0
+  },
+  "`midnight bloom frame`": {
+    "low": 11,
+    "high": 20
+  },
+  "`ming vase frame`": {
+    "low": 4.0,
+    "high": 5.0
+  },
+  "`mirrored energy frame`": {
+    "low": 180,
+    "high": 190
+  },
+  "`mistletoe season frame`": {
+    "low": 20.0,
+    "high": 20.0
+  },
+  "`mobile suit frame`": {
+    "low": 40.0,
+    "high": 40.0
+  },
+  "`molten frame`": {
+    "low": 16.0,
+    "high": 26.0
+  },
+  "`monsterific frame`": {
+    "low": 8.0,
+    "high": 8.0
+  },
+  "`moon altar frame`": {
+    "low": 30.0,
+    "high": 40.0
+  },
+  "`moon kingdom frame`": {
+    "low": 45.0,
+    "high": 50.0
+  },
+  "`morning dew frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`musical notes frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`nether frame`": {
+    "low": 35.0,
+    "high": 50.0
+  },
+  "`night crow frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`night festival frame`": {
+    "low": 20.0,
+    "high": 20.0
+  },
+  "`night ooze frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`nightmare frame`": {
+    "low": 30.0,
+    "high": 35.0
+  },
+  "`nightwalker frame`": {
+    "low": 15,
+    "high": 18
+  },
+  "`nimbus cloud frame`": {
+    "low": 40.0,
+    "high": 40.0
+  },
+  "`ninjutsu frame`": {
+    "low": 28.0,
+    "high": 34.0
+  },
+  "`noble frame`": {
+    "low": 88.0,
+    "high": 90.0
+  },
+  "`nordic frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`noxious frame`": {
+    "low": 40.0,
+    "high": 40.0
+  },
+  "`nurses office frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`nutcracker frame`": {
+    "low": 15.0,
+    "high": 30.0
+  },
+  "`oceanic frame`": {
+    "low": 0.0,
+    "high": 0.0
+  },
+  "`omnitech frame`": {
+    "low": 5.0,
+    "high": 7.0
+  },
+  "`orb weaver frame`": {
+    "low": 35.0,
+    "high": 50.0
+  },
+  "`origami frame`": {
+    "low": 32.0,
+    "high": 35.0
+  },
+  "`ornamental frame`": {
+    "low": 8.0,
+    "high": 8.0
+  },
+  "`ornate stars frame`": {
+    "low": 295.0,
+    "high": 300.0
+  },
+  "`ostara frame`": {
+    "low": 5.0,
+    "high": 5.0
+  },
+  "`panda frame`": {
+    "low": 40.0,
+    "high": 40.0
+  },
+  "`park picnic frame`": {
+    "low": 4.0,
+    "high": 10.0
+  },
+  "`pastel castle frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`pastel geometry frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`patchwork frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`peppermint frame`": {
+    "low": 15,
+    "high": 20
+  },
+  "`petals frame`": {
+    "low": 40,
+    "high": 45
+  },
+  "`pharaoh frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`pharoah frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`pirate voyage frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`pistil suit frame`": {
+    "low": 10.0,
+    "high": 10.0
+  },
+  "`plasma gun frame`": {
+    "low": 35,
+    "high": 40
+  },
+  "`platinum rank frame`": {
+    "low": 5.0,
+    "high": 7.0
+  },
+  "`pocket pet frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`polaroid frame`": {
+    "low": 100.0,
+    "high": 110.0
+  },
+  "`polished locket frame`": {
+    "low": 10.0,
+    "high": 13.0
+  },
+  "`poolside frame`": {
+    "low": 50.0,
+    "high": 50.0
+  },
+  "`pop idol frame`": {
+    "low": 20.0,
+    "high": 55.0
+  },
+  "`prehistoric frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`present time frame`": {
+    "low": 44.0,
+    "high": 44.0
+  },
+  "`prison break frame`": {
+    "low": 40.0,
+    "high": 63.0
+  },
+  "`prototype frame`": {
+    "low": 10.0,
+    "high": 13.0
+  },
+  "`pumpkin king frame`": {
+    "low": 7.0,
+    "high": 15.0
+  },
+  "`pumpkin season frame`": {
+    "low": 4.0,
+    "high": 5.0
+  },
+  "`rabbit hole frame`": {
+    "low": 21.0,
+    "high": 31.0
+  },
+  "`radiance frame`": {
+    "low": 40.0,
+    "high": 50.0
+  },
+  "`rainbow galaxy frame`": {
+    "low": 40.0,
+    "high": 45.0
+  },
+  "`rainforest frame`": {
+    "low": 57.0,
+    "high": 60.0
+  },
+  "`raven frame`": {
+    "low": 28.0,
+    "high": 30.0
+  },
+  "`rebellion frame`": {
+    "low": 40.0,
+    "high": 60.0
+  },
+  "`reclaimed by nature frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`renaissance frame`": {
+    "low": 15.0,
+    "high": 20.0
+  },
+  "`robotic frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`rose knight frame`": {
+    "low": 38.0,
+    "high": 60.0
+  },
+  "`royal princess frame`": {
+    "low": 50.0,
+    "high": 50.0
+  },
+  "`rozen frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`ruined dragon frame`": {
+    "low": 10.0,
+    "high": 11.0
+  },
+  "`runic frame`": {
+    "low": 50,
+    "high": 55
+  },
+  "`rustic springtide frame`": {
+    "low": 3.0,
+    "high": 5.0
+  },
+  "`rusty fortress frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`sakura snack frame`": {
+    "low": 20.0,
+    "high": 40.0
+  },
+  "`saloon brawl frame`": {
+    "low": 40.0,
+    "high": 40.0
+  },
+  "`samurai frame`": {
+    "low": 55.0,
+    "high": 60.0
+  },
+  "`sand castle frame`": {
+    "low": 17.0,
+    "high": 24.0
+  },
+  "`scimitar fight frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`sea temple frame`": {
+    "low": 50.0,
+    "high": 55.0
+  },
+  "`sealed graveyard frame`": {
+    "low": 35.0,
+    "high": 40.0
+  },
+  "`seamster frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`serpent temple frame`": {
+    "low": 38.0,
+    "high": 50.0
+  },
+  "`shadow glass frame`": {
+    "low": 25.0,
+    "high": 28.0
+  },
+  "`shattered plumes frame`": {
+    "low": 45.0,
+    "high": 57.0
+  },
+  "`shiba inu frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`shimmer frame`": {
+    "low": 75,
+    "high": 80
+  },
+  "`shining diamond frame`": {
+    "low": 40.0,
+    "high": 40.0
+  },
+  "`shisa frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`shortbread frame`": {
+    "low": 3,
+    "high": 5
+  },
+  "`silver rank frame`": {
+    "low": 5.0,
+    "high": 5.0
+  },
+  "`simulation frame`": {
+    "low": 40,
+    "high": 50
+  },
+  "`slums frame`": {
+    "low": 40.0,
+    "high": 55.0
+  },
+  "`smithy forge frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`snow day frame`": {
+    "low": 5,
+    "high": 5
+  },
+  "`snow tree frame`": {
+    "low": 25.0,
+    "high": 30.0
+  },
+  "`snowdrop frame`": {
+    "low": 20.0,
+    "high": 25.0
+  },
+  "`snowed in frame`": {
+    "low": 3.0,
+    "high": 8.0
+  },
+  "`snowlands frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`solisfair sip frame`": {
+    "low": 10.0,
+    "high": 15.0
+  },
+  "`solisfair stand frame`": {
+    "low": 3.0,
+    "high": 10.0
+  },
+  "`spaceship frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`special frame box`": {
+    "low": 50.0,
+    "high": 54.0
+  },
+  "`special frame voucher`": {
+    "low": 40.0,
+    "high": 55.0
+  },
+  "`spider lily frame`": {
+    "low": 90.0,
+    "high": 120.0
+  },
+  "`spider queen frame`": {
+    "low": 34.0,
+    "high": 50.0
+  },
+  "`spirit flame frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`spirit silk frame`": {
+    "low": 55.0,
+    "high": 60.0
+  },
+  "`spring breeze frame`": {
+    "low": 40,
+    "high": 45
+  },
+  "`spring crafts frame`": {
+    "low": 5.0,
+    "high": 15.0
+  },
+  "`spring glimmer frame`": {
+    "low": 5.0,
+    "high": 6.0
+  },
+  "`spring hatchling frame`": {
+    "low": 3.0,
+    "high": 13.0
+  },
+  "`spring lilies frame`": {
+    "low": 25.0,
+    "high": 25.0
+  },
+  "`spring rain frame`": {
+    "low": 10.0,
+    "high": 20.0
+  },
+  "`spring whimsy frame`": {
+    "low": 3.0,
+    "high": 7.0
+  },
+  "`springtide serenity frame`": {
+    "low": 20,
+    "high": 25
+  },
+  "`springtide timber frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`springtide treats frame`": {
+    "low": 3.0,
+    "high": 5.0
+  },
+  "`springtide vibes frame`": {
+    "low": 3.0,
+    "high": 5.0
+  },
+  "`stacked deck frame`": {
+    "low": 42.0,
+    "high": 60.0
+  },
+  "`stage showman frame`": {
+    "low": 35.0,
+    "high": 35.0
+  },
+  "`stained glass frame`": {
+    "low": 55.0,
+    "high": 60.0
+  },
+  "`starry sky frame`": {
+    "low": 23.0,
+    "high": 35.0
+  },
+  "`starshine frame`": {
+    "low": 60.0,
+    "high": 65.0
+  },
+  "`starter town frame`": {
+    "low": 45.0,
+    "high": 45.0
+  },
+  "`steampulse frame`": {
+    "low": 115,
+    "high": 130
+  },
+  "`strawberry dessert frame`": {
+    "low": 50.0,
+    "high": 50.0
+  },
+  "`submarine frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`summer splash frame`": {
+    "low": 15.0,
+    "high": 15.0
+  },
+  "`suncatcher frame`": {
+    "low": 0.0,
+    "high": 0.0
+  },
+  "`superhero frame`": {
+    "low": 28.0,
+    "high": 30.0
+  },
+  "`susanoo frame`": {
+    "low": 35,
+    "high": 55
+  },
+  "`sushi buffet frame`": {
+    "low": 40.0,
+    "high": 40.0
+  },
+  "`sweetheart frame`": {
+    "low": 55.0,
+    "high": 60.0
+  },
+  "`swordsman frame`": {
+    "low": 45.0,
+    "high": 45.0
+  },
+  "`tanglung frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`tao frame`": {
+    "low": 12.0,
+    "high": 15.0
+  },
+  "`tarot card frame`": {
+    "low": 49.0,
+    "high": 55.0
+  },
+  "`tatami frame`": {
+    "low": 45.0,
+    "high": 60.0
+  },
+  "`tetromino frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`tetsuo frame`": {
+    "low": 45.0,
+    "high": 45.0
+  },
+  "`texting buddy frame`": {
+    "low": 45.0,
+    "high": 45.0
+  },
+  "`the light frame`": {
+    "low": 85.0,
+    "high": 100.0
+  },
+  "`tipsy frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`tomb relic frame`": {
+    "low": 15.0,
+    "high": 25.0
+  },
+  "`toy mecha frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`tpd frame`": {
+    "low": 10.0,
+    "high": 15.0
+  },
+  "`tranquil blossom frame`": {
+    "low": 40.0,
+    "high": 50.0
+  },
+  "`tree frog frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`tribal chief frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`tropical flame frame`": {
+    "low": 15.0,
+    "high": 20.0
+  },
+  "`undead domain frame`": {
+    "low": 10,
+    "high": 15
+  },
+  "`undine frame`": {
+    "low": 45,
+    "high": 50
+  },
+  "`vaporwave frame`": {
+    "low": 40.0,
+    "high": 47.0
+  },
+  "`venice carnival frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`verdant frame`": {
+    "low": 40.0,
+    "high": 40.0
+  },
+  "`vizier frame`": {
+    "low": 30.0,
+    "high": 40.0
+  },
+  "`volcanic frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`volleyball frame`": {
+    "low": 41.0,
+    "high": 41.0
+  },
+  "`wanted frame`": {
+    "low": 40,
+    "high": 50
+  },
+  "`water element frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`water vial frame`": {
+    "low": 15.0,
+    "high": 20.0
+  },
+  "`watermelon juice frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`whirlpool frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`white tiara frame`": {
+    "low": 35.0,
+    "high": 40.0
+  },
+  "`wife frame`": {
+    "low": 25,
+    "high": 30
+  },
+  "`wild waters frame`": {
+    "low": 40.0,
+    "high": 60.0
+  },
+  "`wild west frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`wine nebula frame`": {
+    "low": 15.0,
+    "high": 20.0
+  },
+  "`winners podium frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`winter campfire frame`": {
+    "low": 35.0,
+    "high": 40.0
+  },
+  "`witch altar frame`": {
+    "low": 40.0,
+    "high": 40.0
+  },
+  "`witchs brew frame`": {
+    "low": 3.0,
+    "high": 5.0
+  },
+  "`witchs broom frame`": {
+    "low": 4.0,
+    "high": 12.0
+  },
+  "`wizards hut frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`wrapped frame`": {
+    "low": 8.0,
+    "high": 15.0
+  },
+  "`yakuza frame`": {
+    "low": 15.0,
+    "high": 20.0
+  },
+  "`year of the boar frame`": {
+    "low": 5,
+    "high": 7
+  },
+  "`year of the dog frame`": {
+    "low": 5,
+    "high": 7
+  },
+  "`year of the dragon frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`year of the horse frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`year of the monkey frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`year of the ox frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`year of the rabbit frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`year of the rat frame`": {
+    "low": 5,
+    "high": 7
+  },
+  "`year of the rooster frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`year of the sheep frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`year of the snake frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`year of the tiger frame`": {
+    "low": 2.0,
+    "high": 3.0
+  },
+  "`yin and yang frame`": {
+    "low": 50.0,
+    "high": 50.0
+  },
+  "`zenith frame`": {
+    "low": 40.0,
+    "high": 45.0
+  }
+}
