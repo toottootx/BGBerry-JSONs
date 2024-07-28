@@ -87,10 +87,6 @@
     "low": 2.0,
     "high": 3.0
   },
-  "`basic frame voucher`": {
-    "low": 2.5,
-    "high": 3
-  },
   "`beach towel frame`": {
     "low": 3.0,
     "high": 3.0
@@ -198,10 +194,6 @@
   "`carnations frame`": {
     "low": 2.0,
     "high": 3.0
-  },
-  "`carousel frame voucher`": {
-    "low": 33,
-    "high": 35
   },
   "`carrara marble frame`": {
     "low": 50.0,
@@ -703,10 +695,6 @@
     "low": 2.0,
     "high": 3.0
   },
-  "`kominka frame`": {
-    "low": 2.0,
-    "high": 3.0
-  },
   "`Kraken frame`": {
     "low": 2.0,
     "high": 3.0
@@ -963,10 +951,6 @@
     "low": 40,
     "high": 45
   },
-  "`pharaoh frame`": {
-    "low": 2.0,
-    "high": 3.0
-  },
   "`pharoah frame`": {
     "low": 2.0,
     "high": 3.0
@@ -1210,10 +1194,6 @@
   "`special frame box`": {
     "low": 50.0,
     "high": 54.0
-  },
-  "`special frame voucher`": {
-    "low": 40.0,
-    "high": 55.0
   },
   "`spider lily frame`": {
     "low": 90.0,
