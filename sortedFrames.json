@@ -699,10 +699,6 @@
     "low": 2.0,
     "high": 3.0
   },
-  "`kraken frame`": {
-    "low": 2.0,
-    "high": 3.0
-  },
   "`labpunk frame`": {
     "low": 2.0,
     "high": 3.0
@@ -1190,10 +1186,6 @@
   "`spaceship frame`": {
     "low": 2.0,
     "high": 3.0
-  },
-  "`special frame box`": {
-    "low": 50.0,
-    "high": 54.0
   },
   "`spider lily frame`": {
     "low": 90.0,
