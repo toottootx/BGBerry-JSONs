@@ -29,8 +29,8 @@
     ]
   },
   "`apollo frame`": {
-    "low": 14.0,
-    "high": 25.0,
+    "low": 14,
+    "high": 25,
     "tags": [
       "transparent",
       "event"
@@ -1168,13 +1168,6 @@
       "carousel"
     ]
   },
-  "`jewelry box frame`": {
-    "low": 40.0,
-    "high": 45.0,
-    "tags": [
-      "carousel"
-    ]
-  },
   "`jurassic frame`": {
     "low": 30.0,
     "high": 30.0,
@@ -1245,14 +1238,14 @@
       "special"
     ]
   },
-  "`Kominka frame`": {
+  "`kominka frame`": {
     "low": 2.0,
     "high": 3.0,
     "tags": [
       "bit"
     ]
   },
-  "`Kraken frame`": {
+  "`kraken frame`": {
     "low": 2.0,
     "high": 3.0,
     "tags": [
@@ -1297,8 +1290,8 @@
     ]
   },
   "`lifeguard frame`": {
-    "low": 2.0,
-    "high": 5.0,
+    "low": 2,
+    "high": 5,
     "tags": [
       "event"
     ]
@@ -1609,8 +1602,8 @@
     ]
   },
   "`oceanic frame`": {
-    "low": 3.0,
-    "high": 8.0,
+    "low": 3,
+    "high": 8,
     "tags": [
       "event"
     ]
@@ -1883,8 +1876,8 @@
     ]
   },
   "`ripple frame`": {
-    "low": 13.0,
-    "high": 18.0,
+    "low": 13,
+    "high": 18,
     "tags": [
       "transparent",
       "event"
@@ -2333,8 +2326,8 @@
     ]
   },
   "`suncatcher frame`": {
-    "low": 18.0,
-    "high": 25.0,
+    "low": 18,
+    "high": 25,
     "tags": [
       "transparent",
       "event"
