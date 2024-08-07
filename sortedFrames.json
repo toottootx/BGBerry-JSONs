@@ -15,8 +15,8 @@
     ]
   },
   "`alchemist frame`": {
-    "low": 40.0,
-    "high": 50.0,
+    "low": 25,
+    "high": 30,
     "tags": [
       "carousel"
     ]
@@ -187,8 +187,8 @@
     ]
   },
   "`black tiara frame`": {
-    "low": 30.0,
-    "high": 40.0,
+    "low": 10,
+    "high": 20,
     "tags": [
       "carousel"
     ]
@@ -245,8 +245,8 @@
     ]
   },
   "`bridesmaid frame`": {
-    "low": 55.0,
-    "high": 60.0,
+    "low": 30,
+    "high": 40,
     "tags": [
       "carousel"
     ]
@@ -354,8 +354,8 @@
     ]
   },
   "`carrara marble frame`": {
-    "low": 50.0,
-    "high": 50.0,
+    "low": 30,
+    "high": 35,
     "tags": [
       "carousel"
     ]
@@ -368,8 +368,8 @@
     ]
   },
   "`case files frame`": {
-    "low": 55.0,
-    "high": 60.0,
+    "low": 38,
+    "high": 50,
     "tags": [
       "carousel"
     ]
@@ -382,8 +382,8 @@
     ]
   },
   "`cat cafe frame`": {
-    "low": 55.0,
-    "high": 55.0,
+    "low": 35,
+    "high": 50,
     "tags": [
       "carousel"
     ]
@@ -404,8 +404,8 @@
     ]
   },
   "`chefs kitchen frame`": {
-    "low": 60.0,
-    "high": 60.0,
+    "low": 30,
+    "high": 48,
     "tags": [
       "carousel"
     ]
@@ -474,8 +474,8 @@
     ]
   },
   "`coffee shop frame`": {
-    "low": 20.0,
-    "high": 30.0,
+    "low": 40,
+    "high": 50,
     "tags": [
       "carousel"
     ]
@@ -559,8 +559,8 @@
     ]
   },
   "`dark iron frame`": {
-    "low": 30.0,
-    "high": 35.0,
+    "low": 20,
+    "high": 24,
     "tags": [
       "carousel"
     ]
@@ -756,8 +756,8 @@
     ]
   },
   "`fire element frame`": {
-    "low": 40.0,
-    "high": 50.0,
+    "low": 30,
+    "high": 40,
     "tags": [
       "carousel"
     ]
@@ -814,16 +814,16 @@
     ]
   },
   "`frostborn frame`": {
-    "low": 43,
-    "high": 45,
+    "low": 33,
+    "high": 35,
     "tags": [
       "transparent",
       "carousel"
     ]
   },
   "`frosted glass frame`": {
-    "low": 40.0,
-    "high": 50.0,
+    "low": 35,
+    "high": 40,
     "tags": [
       "carousel"
     ]
@@ -893,8 +893,8 @@
     ]
   },
   "`glory frame`": {
-    "low": 45,
-    "high": 55,
+    "low": 35,
+    "high": 45,
     "tags": [
       "transparent",
       "carousel"
@@ -915,8 +915,8 @@
     ]
   },
   "`gothic ornament frame`": {
-    "low": 40.0,
-    "high": 40.0,
+    "low": 30,
+    "high": 35,
     "tags": [
       "carousel"
     ]
@@ -936,8 +936,8 @@
     ]
   },
   "`grove druid frame`": {
-    "low": 30.0,
-    "high": 30.0,
+    "low": 19,
+    "high": 24,
     "tags": [
       "carousel"
     ]
@@ -1016,8 +1016,8 @@
     ]
   },
   "`heraldic frame`": {
-    "low": 40.0,
-    "high": 50.0,
+    "low": 35,
+    "high": 40,
     "tags": [
       "carousel"
     ]
@@ -1162,8 +1162,8 @@
     ]
   },
   "`japanese alley frame`": {
-    "low": 39.0,
-    "high": 50.0,
+    "low": 45,
+    "high": 55,
     "tags": [
       "carousel"
     ]
@@ -1218,15 +1218,15 @@
     ]
   },
   "`kimono frame`": {
-    "low": 50.0,
-    "high": 53.0,
+    "low": 35,
+    "high": 40,
     "tags": [
       "carousel"
     ]
   },
   "`kintsugi frame`": {
-    "low": 40.0,
-    "high": 45.0,
+    "low": 35,
+    "high": 40,
     "tags": [
       "carousel"
     ]
@@ -1283,8 +1283,8 @@
     ]
   },
   "`life and death frame`": {
-    "low": 30.0,
-    "high": 40.0,
+    "low": 24,
+    "high": 33,
     "tags": [
       "carousel"
     ]
@@ -1369,7 +1369,7 @@
     ]
   },
   "`mahou frame`": {
-    "low": 45,
+    "low": 30,
     "high": 45,
     "tags": [
       "transparent",
@@ -1457,8 +1457,8 @@
     ]
   },
   "`mobile suit frame`": {
-    "low": 40.0,
-    "high": 40.0,
+    "low": 30,
+    "high": 35,
     "tags": [
       "carousel"
     ]
@@ -1485,8 +1485,8 @@
     ]
   },
   "`moon kingdom frame`": {
-    "low": 45.0,
-    "high": 50.0,
+    "low": 30,
+    "high": 45,
     "tags": [
       "carousel"
     ]
@@ -1536,8 +1536,8 @@
     ]
   },
   "`nightmare frame`": {
-    "low": 30.0,
-    "high": 35.0,
+    "low": 17,
+    "high": 25,
     "tags": [
       "carousel"
     ]
@@ -1580,8 +1580,8 @@
     ]
   },
   "`noxious frame`": {
-    "low": 50,
-    "high": 50,
+    "low": 30,
+    "high": 47,
     "tags": [
       "transparent",
       "carousel"
@@ -1623,8 +1623,8 @@
     ]
   },
   "`origami frame`": {
-    "low": 32.0,
-    "high": 35.0,
+    "low": 15,
+    "high": 26,
     "tags": [
       "carousel"
     ]
@@ -1652,8 +1652,8 @@
     ]
   },
   "`panda frame`": {
-    "low": 40.0,
-    "high": 40.0,
+    "low": 30,
+    "high": 30,
     "tags": [
       "carousel"
     ]
@@ -1666,8 +1666,8 @@
     ]
   },
   "`pastel castle frame`": {
-    "low": 2.0,
-    "high": 3.0,
+    "low": 30,
+    "high": 35,
     "tags": [
       "carousel"
     ]
@@ -1695,8 +1695,8 @@
     ]
   },
   "`petals frame`": {
-    "low": 45,
-    "high": 55,
+    "low": 35,
+    "high": 40,
     "tags": [
       "transparent",
       "carousel"
@@ -1789,8 +1789,8 @@
     ]
   },
   "`prison break frame`": {
-    "low": 40.0,
-    "high": 63.0,
+    "low": 30,
+    "high": 45,
     "tags": [
       "carousel"
     ]
@@ -1832,15 +1832,15 @@
     ]
   },
   "`rainbow galaxy frame`": {
-    "low": 40.0,
-    "high": 45.0,
+    "low": 24,
+    "high": 30,
     "tags": [
       "carousel"
     ]
   },
   "`rainforest frame`": {
-    "low": 50,
-    "high": 55,
+    "low": 40,
+    "high": 49,
     "tags": [
       "transparent",
       "carousel"
@@ -1899,8 +1899,8 @@
     ]
   },
   "`royal princess frame`": {
-    "low": 50.0,
-    "high": 50.0,
+    "low": 29,
+    "high": 40,
     "tags": [
       "carousel"
     ]
@@ -1935,8 +1935,8 @@
     ]
   },
   "`rusty fortress frame`": {
-    "low": 2.0,
-    "high": 3.0,
+    "low": 30,
+    "high": 35,
     "tags": [
       "carousel"
     ]
@@ -2038,8 +2038,8 @@
     ]
   },
   "`shining diamond frame`": {
-    "low": 40.0,
-    "high": 40.0,
+    "low": 30,
+    "high": 35,
     "tags": [
       "carousel"
     ]
@@ -2268,8 +2268,8 @@
     ]
   },
   "`stained glass frame`": {
-    "low": 55.0,
-    "high": 60.0,
+    "low": 30,
+    "high": 40,
     "tags": [
       "carousel"
     ]
@@ -2394,8 +2394,8 @@
     ]
   },
   "`tatami frame`": {
-    "low": 45.0,
-    "high": 60.0,
+    "low": 30,
+    "high": 35,
     "tags": [
       "carousel"
     ]
@@ -2503,8 +2503,8 @@
     ]
   },
   "`vaporwave frame`": {
-    "low": 40.0,
-    "high": 47.0,
+    "low": 34,
+    "high": 40,
     "tags": [
       "carousel"
     ]
@@ -2525,8 +2525,8 @@
     ]
   },
   "`vizier frame`": {
-    "low": 30.0,
-    "high": 40.0,
+    "low": 20,
+    "high": 20,
     "tags": [
       "carousel"
     ]
@@ -2539,8 +2539,8 @@
     ]
   },
   "`volleyball frame`": {
-    "low": 41.0,
-    "high": 41.0,
+    "low": 30,
+    "high": 35,
     "tags": [
       "carousel"
     ]
@@ -2582,8 +2582,8 @@
     ]
   },
   "`white tiara frame`": {
-    "low": 35.0,
-    "high": 40.0,
+    "low": 19,
+    "high": 30,
     "tags": [
       "carousel"
     ]
@@ -2597,8 +2597,8 @@
     ]
   },
   "`wild waters frame`": {
-    "low": 40.0,
-    "high": 60.0,
+    "low": 35,
+    "high": 50,
     "tags": [
       "carousel"
     ]
@@ -2632,8 +2632,8 @@
     ]
   },
   "`witch altar frame`": {
-    "low": 40.0,
-    "high": 40.0,
+    "low": 25,
+    "high": 30,
     "tags": [
       "carousel"
     ]
@@ -2758,8 +2758,8 @@
     ]
   },
   "`yin and yang frame`": {
-    "low": 50.0,
-    "high": 50.0,
+    "low": 45,
+    "high": 50,
     "tags": [
       "carousel"
     ]
