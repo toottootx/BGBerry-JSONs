@@ -94,6 +94,22 @@
       "special"
     ]
   },
+  "`ascendant frame`": {
+    "low": 30,
+    "high": 40,
+    "tags": [
+      "special",
+      "transparent"
+    ]
+  },
+  "`ashes frame`": {
+    "low": 40,
+    "high": 60,
+    "tags": [
+      "special",
+      "transparent"
+    ]
+  },
   "`astrolabe frame`": {
     "low": 32.0,
     "high": 32.0,
@@ -191,6 +207,13 @@
     "high": 20,
     "tags": [
       "carousel"
+    ]
+  },
+  "`black widow frame`": {
+    "low": 5,
+    "high": 10,
+    "tags": [
+      "event"
     ]
   },
   "`bloodmoon bite frame`": {
@@ -445,6 +468,13 @@
       "bit"
     ]
   },
+  "`chocomint frame`": {
+    "low": 3,
+    "high": 5,
+    "tags": [
+      "event"
+    ]
+  },
   "`chopsticks frame`": {
     "low": 2.0,
     "high": 3.0,
@@ -471,6 +501,14 @@
     "high": 70.0,
     "tags": [
       "carousel"
+    ]
+  },
+  "`cleave frame`": {
+    "low": 180,
+    "high": 200,
+    "tags": [
+      "special",
+      "transparent"
     ]
   },
   "`coffee shop frame`": {
@@ -523,6 +561,14 @@
       "bit"
     ]
   },
+  "`crystal wings frame`": {
+    "low": 110,
+    "high": 130,
+    "tags": [
+      "special",
+      "transparent"
+    ]
+  },
   "`crystalline locket frame`": {
     "low": 13.0,
     "high": 13.0,
@@ -549,6 +595,14 @@
     "high": 25.0,
     "tags": [
       "event"
+    ]
+  },
+  "`cursed relics frame`": {
+    "low": 15,
+    "high": 20,
+    "tags": [
+      "event",
+      "transparent"
     ]
   },
   "`dark cathedral frame`": {
@@ -580,11 +634,27 @@
       "special"
     ]
   },
+  "`deviation frame`": {
+    "low": 50,
+    "high": 65,
+    "tags": [
+      "special",
+      "transparent"
+    ]
+  },
   "`diamond rank frame`": {
     "low": 7.0,
     "high": 7.0,
     "tags": [
       "dojo"
+    ]
+  },
+  "`divine duality frame`": {
+    "low": 45,
+    "high": 60,
+    "tags": [
+      "special",
+      "transparent"
     ]
   },
   "`divinity frame`": {
@@ -645,6 +715,14 @@
     "high": 3.0,
     "tags": [
       "bit"
+    ]
+  },
+  "`eldritch frame`": {
+    "low": 20,
+    "high": 25,
+    "tags": [
+      "event",
+      "transparent"
     ]
   },
   "`electrified frame`": {
@@ -719,6 +797,14 @@
       "event"
     ]
   },
+  "`festivity frame`": {
+    "low": 10,
+    "high": 15,
+    "tags": [
+      "event",
+      "transparent"
+    ]
+  },
   "`festivus freeze frame`": {
     "low": 65,
     "high": 70,
@@ -744,6 +830,13 @@
   "`festivus park frame`": {
     "low": 5.0,
     "high": 10.0,
+    "tags": [
+      "event"
+    ]
+  },
+  "`festivus presents frame`": {
+    "low": 20,
+    "high": 40,
     "tags": [
       "event"
     ]
@@ -884,6 +977,13 @@
       "special"
     ]
   },
+  "`gingerbake frame`": {
+    "low": 2,
+    "high": 5,
+    "tags": [
+      "event"
+    ]
+  },
   "`glinted frame`": {
     "low": 70,
     "high": 80,
@@ -982,6 +1082,13 @@
   "`haunted cemetery frame`": {
     "low": 30.0,
     "high": 50.0,
+    "tags": [
+      "event"
+    ]
+  },
+  "`haunted harvest frame`": {
+    "low": 3,
+    "high": 5,
     "tags": [
       "event"
     ]
@@ -1103,6 +1210,14 @@
       "event"
     ]
   },
+  "`illusion frame`": {
+    "low": 40,
+    "high": 60,
+    "tags": [
+      "special",
+      "transparent"
+    ]
+  },
   "`in wonderland frame`": {
     "low": 3.0,
     "high": 6.0,
@@ -1166,6 +1281,13 @@
     "high": 55,
     "tags": [
       "carousel"
+    ]
+  },
+  "`jingle bells frame`": {
+    "low": 3,
+    "high": 6,
+    "tags": [
+      "event"
     ]
   },
   "`jurassic frame`": {
@@ -1579,6 +1701,14 @@
       "bit"
     ]
   },
+  "`nova frame`": {
+    "low": 40,
+    "high": 60,
+    "tags": [
+      "special",
+      "transparent"
+    ]
+  },
   "`noxious frame`": {
     "low": 30,
     "high": 47,
@@ -1700,6 +1830,14 @@
     "tags": [
       "transparent",
       "carousel"
+    ]
+  },
+  "`phantoms lament frame`": {
+    "low": 15,
+    "high": 25,
+    "tags": [
+      "event",
+      "transparent"
     ]
   },
   "`pharoah frame`": {
@@ -1903,6 +2041,14 @@
     "high": 40,
     "tags": [
       "carousel"
+    ]
+  },
+  "`royalty frame`": {
+    "low": 25,
+    "high": 30,
+    "tags": [
+      "special",
+      "transparent"
     ]
   },
   "`rozen frame`": {
@@ -2114,6 +2260,14 @@
       "event"
     ]
   },
+  "`snowfire frame`": {
+    "low": 15,
+    "high": 30,
+    "tags": [
+      "event",
+      "transparent"
+    ]
+  },
   "`snowlands frame`": {
     "low": 2.0,
     "high": 3.0,
@@ -2140,6 +2294,14 @@
     "high": 3.0,
     "tags": [
       "bit"
+    ]
+  },
+  "`spellbook frame`": {
+    "low": 35,
+    "high": 45,
+    "tags": [
+      "special",
+      "transparent"
     ]
   },
   "`spider lily frame`": {
