@@ -7,8 +7,8 @@
     ]
   },
   "`aerial frame`": {
-    "low": 35,
-    "high": 40,
+    "low": 40,
+    "high": 45,
     "tags": [
       "transparent",
       "special"
@@ -51,8 +51,8 @@
     ]
   },
   "`arcana frame`": {
-    "low": 30,
-    "high": 40,
+    "low": 40,
+    "high": 50,
     "tags": [
       "transparent",
       "special"
@@ -80,8 +80,8 @@
     ]
   },
   "`archlight frame`": {
-    "low": 30,
-    "high": 35,
+    "low": 45,
+    "high": 60,
     "tags": [
       "transparent",
       "special"
@@ -140,7 +140,7 @@
   },
   "`azure claw frame`": {
     "low": 30,
-    "high": 35,
+    "high": 40,
     "tags": [
       "transparent",
       "special"
@@ -217,8 +217,8 @@
     ]
   },
   "`bloodmoon bite frame`": {
-    "low": 34,
-    "high": 45,
+    "low": 35,
+    "high": 40,
     "tags": [
       "transparent",
       "event"
@@ -326,8 +326,8 @@
     ]
   },
   "`bunny paws frame`": {
-    "low": 30,
-    "high": 35,
+    "low": 40,
+    "high": 55,
     "tags": [
       "transparent",
       "event"
@@ -348,8 +348,8 @@
     ]
   },
   "`butterfly woods frame`": {
-    "low": 30,
-    "high": 45,
+    "low": 50,
+    "high": 65,
     "tags": [
       "transparent",
       "special"
@@ -419,8 +419,8 @@
     ]
   },
   "`chaosborn frame`": {
-    "low": 75,
-    "high": 90,
+    "low": 95,
+    "high": 110,
     "tags": [
       "transparent",
       "special"
@@ -540,8 +540,8 @@
     ]
   },
   "`cosmic entity frame`": {
-    "low": 35,
-    "high": 40,
+    "low": 50,
+    "high": 55,
     "tags": [
       "transparent",
       "special"
@@ -628,7 +628,7 @@
   },
   "`destiny frame`": {
     "low": 30,
-    "high": 45,
+    "high": 40,
     "tags": [
       "transparent",
       "special"
@@ -665,8 +665,8 @@
     ]
   },
   "`djinn lamp frame`": {
-    "low": 37,
-    "high": 50,
+    "low": 30,
+    "high": 40,
     "tags": [
       "transparent",
       "special"
@@ -696,15 +696,15 @@
   },
   "`earthen frame`": {
     "low": 45,
-    "high": 55,
+    "high": 60,
     "tags": [
       "transparent",
       "special"
     ]
   },
   "`easel frame`": {
-    "low": 75,
-    "high": 110,
+    "low": 100,
+    "high": 120,
     "tags": [
       "transparent",
       "special"
@@ -747,8 +747,8 @@
     ]
   },
   "`empyrean frame`": {
-    "low": 45,
-    "high": 50,
+    "low": 50,
+    "high": 75,
     "tags": [
       "transparent",
       "special"
@@ -769,7 +769,7 @@
     ]
   },
   "`explosion frame`": {
-    "low": 50,
+    "low": 45,
     "high": 55,
     "tags": [
       "transparent",
@@ -806,8 +806,8 @@
     ]
   },
   "`festivus freeze frame`": {
-    "low": 65,
-    "high": 70,
+    "low": 90,
+    "high": 100,
     "tags": [
       "transparent",
       "event"
@@ -907,8 +907,8 @@
     ]
   },
   "`frostborn frame`": {
-    "low": 33,
-    "high": 35,
+    "low": 55,
+    "high": 60,
     "tags": [
       "transparent",
       "carousel"
@@ -985,16 +985,16 @@
     ]
   },
   "`glinted frame`": {
-    "low": 70,
-    "high": 80,
+    "low": 110,
+    "high": 120,
     "tags": [
       "transparent",
       "special"
     ]
   },
   "`glory frame`": {
-    "low": 35,
-    "high": 45,
+    "low": 45,
+    "high": 55,
     "tags": [
       "transparent",
       "carousel"
@@ -1043,8 +1043,8 @@
     ]
   },
   "`hacker frame`": {
-    "low": 150,
-    "high": 170,
+    "low": 160,
+    "high": 175,
     "tags": [
       "transparent",
       "special"
@@ -1072,8 +1072,8 @@
     ]
   },
   "`harpstring frame`": {
-    "low": 40,
-    "high": 40,
+    "low": 45,
+    "high": 55,
     "tags": [
       "transparent",
       "special"
@@ -1108,8 +1108,8 @@
     ]
   },
   "`heartbreak frame`": {
-    "low": 33.0,
-    "high": 55.0,
+    "low": 35,
+    "high": 40,
     "tags": [
       "transparent",
       "event"
@@ -1130,8 +1130,8 @@
     ]
   },
   "`higasa frame`": {
-    "low": 50,
-    "high": 50,
+    "low": 60,
+    "high": 70,
     "tags": [
       "transparent",
       "carousel"
@@ -1195,7 +1195,7 @@
     ]
   },
   "`ice cube frame`": {
-    "low": 44,
+    "low": 50,
     "high": 55,
     "tags": [
       "transparent",
@@ -1203,8 +1203,8 @@
     ]
   },
   "`icicle frame`": {
-    "low": 35,
-    "high": 35,
+    "low": 55,
+    "high": 65,
     "tags": [
       "transparent",
       "event"
@@ -1226,16 +1226,16 @@
     ]
   },
   "`infinity void frame`": {
-    "low": 65,
-    "high": 70,
+    "low": 70,
+    "high": 75,
     "tags": [
       "transparent",
       "special"
     ]
   },
   "`interface frame`": {
-    "low": 100,
-    "high": 110,
+    "low": 110,
+    "high": 125,
     "tags": [
       "transparent",
       "special"
@@ -1389,7 +1389,7 @@
     ]
   },
   "`legend rank frame`": {
-    "low": 500,
+    "low": 400,
     "high": 500,
     "tags": [
       "transparent",
@@ -1398,7 +1398,7 @@
   },
   "`lich frame`": {
     "low": 45,
-    "high": 55,
+    "high": 50,
     "tags": [
       "transparent",
       "special"
@@ -1426,8 +1426,8 @@
     ]
   },
   "`livestream frame`": {
-    "low": 55,
-    "high": 55,
+    "low": 80,
+    "high": 95,
     "tags": [
       "transparent",
       "special"
@@ -1491,8 +1491,8 @@
     ]
   },
   "`mahou frame`": {
-    "low": 30,
-    "high": 45,
+    "low": 50,
+    "high": 55,
     "tags": [
       "transparent",
       "carousel"
@@ -1541,8 +1541,8 @@
     ]
   },
   "`mermaid frame`": {
-    "low": 30,
-    "high": 35,
+    "low": 35,
+    "high": 40,
     "tags": [
       "transparent",
       "special"
@@ -1564,8 +1564,8 @@
     ]
   },
   "`mirrored energy frame`": {
-    "low": 174,
-    "high": 175,
+    "low": 215,
+    "high": 220,
     "tags": [
       "transparent",
       "special"
@@ -1628,8 +1628,8 @@
     ]
   },
   "`nether frame`": {
-    "low": 35.0,
-    "high": 50.0,
+    "low": 30,
+    "high": 40,
     "tags": [
       "transparent",
       "special"
@@ -1687,8 +1687,8 @@
     ]
   },
   "`noble frame`": {
-    "low": 70,
-    "high": 70,
+    "low": 90,
+    "high": 95,
     "tags": [
       "transparent",
       "special"
@@ -1703,15 +1703,15 @@
   },
   "`nova frame`": {
     "low": 40,
-    "high": 60,
+    "high": 50,
     "tags": [
       "special",
       "transparent"
     ]
   },
   "`noxious frame`": {
-    "low": 30,
-    "high": 47,
+    "low": 40,
+    "high": 50,
     "tags": [
       "transparent",
       "carousel"
@@ -1767,8 +1767,8 @@
     ]
   },
   "`ornate stars frame`": {
-    "low": 210,
-    "high": 210,
+    "low": 250,
+    "high": 260,
     "tags": [
       "transparent",
       "special"
@@ -1825,8 +1825,8 @@
     ]
   },
   "`petals frame`": {
-    "low": 35,
-    "high": 40,
+    "low": 55,
+    "high": 60,
     "tags": [
       "transparent",
       "carousel"
@@ -1919,8 +1919,8 @@
     ]
   },
   "`present time frame`": {
-    "low": 34,
-    "high": 40,
+    "low": 40,
+    "high": 45,
     "tags": [
       "transparent",
       "event"
@@ -1962,8 +1962,8 @@
     ]
   },
   "`radiance frame`": {
-    "low": 40,
-    "high": 46,
+    "low": 45,
+    "high": 55,
     "tags": [
       "transparent",
       "special"
@@ -1977,8 +1977,8 @@
     ]
   },
   "`rainforest frame`": {
-    "low": 40,
-    "high": 49,
+    "low": 50,
+    "high": 60,
     "tags": [
       "transparent",
       "carousel"
@@ -1992,8 +1992,8 @@
     ]
   },
   "`rebellion frame`": {
-    "low": 50,
-    "high": 50,
+    "low": 90,
+    "high": 110,
     "tags": [
       "transparent",
       "special"
@@ -2029,8 +2029,8 @@
     ]
   },
   "`rose knight frame`": {
-    "low": 38.0,
-    "high": 60.0,
+    "low": 45,
+    "high": 50,
     "tags": [
       "transparent",
       "event"
@@ -2066,8 +2066,8 @@
     ]
   },
   "`runic frame`": {
-    "low": 50,
-    "high": 60,
+    "low": 55,
+    "high": 65,
     "tags": [
       "transparent",
       "special"
@@ -2103,7 +2103,7 @@
   },
   "`samurai frame`": {
     "low": 60,
-    "high": 60,
+    "high": 65,
     "tags": [
       "transparent",
       "special"
@@ -2124,16 +2124,16 @@
     ]
   },
   "`sea temple frame`": {
-    "low": 49,
-    "high": 55,
+    "low": 85,
+    "high": 95,
     "tags": [
       "transparent",
       "special"
     ]
   },
   "`sealed graveyard frame`": {
-    "low": 30,
-    "high": 30,
+    "low": 40,
+    "high": 45,
     "tags": [
       "transparent",
       "event"
@@ -2161,7 +2161,7 @@
     ]
   },
   "`shattered plumes frame`": {
-    "low": 30,
+    "low": 35,
     "high": 40,
     "tags": [
       "transparent",
@@ -2176,8 +2176,8 @@
     ]
   },
   "`shimmer frame`": {
-    "low": 60,
-    "high": 70,
+    "low": 65,
+    "high": 75,
     "tags": [
       "transparent",
       "special"
@@ -2305,16 +2305,16 @@
     ]
   },
   "`spider lily frame`": {
-    "low": 73,
-    "high": 75,
+    "low": 90,
+    "high": 110,
     "tags": [
       "transparent",
       "special"
     ]
   },
   "`spider queen frame`": {
-    "low": 34.0,
-    "high": 50.0,
+    "low": 50,
+    "high": 55,
     "tags": [
       "transparent",
       "event"
@@ -2328,16 +2328,16 @@
     ]
   },
   "`spirit silk frame`": {
-    "low": 43,
-    "high": 50,
+    "low": 70,
+    "high": 80,
     "tags": [
       "transparent",
       "special"
     ]
   },
   "`spring breeze frame`": {
-    "low": 43,
-    "high": 50,
+    "low": 55,
+    "high": 70,
     "tags": [
       "transparent",
       "event"
@@ -2444,8 +2444,8 @@
     ]
   },
   "`starshine frame`": {
-    "low": 48,
-    "high": 55,
+    "low": 60,
+    "high": 70,
     "tags": [
       "transparent",
       "special"
@@ -2459,8 +2459,8 @@
     ]
   },
   "`steampulse frame`": {
-    "low": 110,
-    "high": 130,
+    "low": 150,
+    "high": 170,
     "tags": [
       "transparent",
       "special"
@@ -2505,7 +2505,7 @@
   },
   "`susanoo frame`": {
     "low": 35,
-    "high": 55,
+    "high": 40,
     "tags": [
       "transparent",
       "special"
@@ -2519,8 +2519,8 @@
     ]
   },
   "`sweetheart frame`": {
-    "low": 45,
-    "high": 55,
+    "low": 60,
+    "high": 65,
     "tags": [
       "transparent",
       "event"
@@ -2528,7 +2528,7 @@
   },
   "`swordsman frame`": {
     "low": 30,
-    "high": 38,
+    "high": 40,
     "tags": [
       "transparent",
       "special"
@@ -2584,8 +2584,8 @@
     ]
   },
   "`the light frame`": {
-    "low": 70,
-    "high": 75,
+    "low": 85,
+    "high": 100,
     "tags": [
       "transparent",
       "special"
@@ -2620,8 +2620,8 @@
     ]
   },
   "`tranquil blossom frame`": {
-    "low": 35,
-    "high": 45,
+    "low": 45,
+    "high": 55,
     "tags": [
       "transparent",
       "event"
@@ -2657,8 +2657,8 @@
     ]
   },
   "`undine frame`": {
-    "low": 48,
-    "high": 48,
+    "low": 45,
+    "high": 55,
     "tags": [
       "transparent",
       "special"
@@ -2680,7 +2680,7 @@
   },
   "`verdant frame`": {
     "low": 30,
-    "high": 45,
+    "high": 40,
     "tags": [
       "transparent",
       "special"
@@ -2927,8 +2927,8 @@
     ]
   },
   "`zenith frame`": {
-    "low": 35,
-    "high": 60,
+    "low": 30,
+    "high": 35,
     "tags": [
       "transparent",
       "special"
