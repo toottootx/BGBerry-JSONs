@@ -1319,8 +1319,15 @@
     ]
   },
   "`karuta anniversary 2024 frame`": {
-    "low": 5,
-    "high": 10,
+    "low": 2,
+    "high": 5,
+    "tags": [
+      "monthly"
+    ]
+  },
+  "`karuta anniversary 2025 frame`": {
+    "low": 2,
+    "high": 5,
     "tags": [
       "monthly"
     ]
