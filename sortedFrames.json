@@ -1299,31 +1299,23 @@
   },
   "`karuta anniversary 2021 frame`": {
     "low": 2.0,
-    "high": 3.0,
-    "tags": [
-      "event"
-    ]
+    "high": 5.0
   },
   "`karuta anniversary 2022 frame`": {
     "low": 2.0,
-    "high": 3.0,
-    "tags": [
-      "monthly"
-    ]
+    "high": 5.0
   },
   "`karuta anniversary 2023 frame`": {
     "low": 2.0,
-    "high": 3.0,
-    "tags": [
-      "monthly"
-    ]
+    "high": 5.0
   },
   "`karuta anniversary 2024 frame`": {
-    "low": 5,
-    "high": 10,
-    "tags": [
-      "monthly"
-    ]
+    "low": 2,
+    "high": 5
+  },
+  "`karuta anniversary 2025 frame`": {
+    "low": 2,
+    "high": 6
   },
   "`karuta boy frame`": {
     "low": 5.0,
