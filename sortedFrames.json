@@ -325,6 +325,14 @@
       "special"
     ]
   },
+  "`bunny bliss frame`": {
+    "low": 30.0,
+    "high": 40.0,
+    "tags": [
+      "event",
+      "transparent"
+    ]
+  },
   "`bunny paws frame`": {
     "low": 40,
     "high": 55,
@@ -744,6 +752,14 @@
     "high": 10.0,
     "tags": [
       "special"
+    ]
+  },
+  "`elven blossom frame`": {
+    "low": 30.0,
+    "high": 40.0,
+    "tags": [
+      "event",
+      "transparent"
     ]
   },
   "`empyrean frame`": {
@@ -1563,6 +1579,14 @@
       "special"
     ]
   },
+  "`midnight petal frame`": {
+    "low": 30.0,
+    "high": 40.0,
+    "tags": [
+      "event",
+      "transparent"
+    ]
+  },
   "`midnight bloom frame`": {
     "low": 15,
     "high": 25,
@@ -2191,6 +2215,13 @@
       "special"
     ]
   },
+  "`sheep puff frame`": {
+    "low": 15.0,
+    "high": 25.0,
+    "tags": [
+      "event",
+    ]
+  },
   "`shiba inu frame`": {
     "low": 2.0,
     "high": 3.0,
@@ -2685,6 +2716,13 @@
     "tags": [
       "transparent",
       "special"
+    ]
+  },
+  "`valley elegance frame`": {
+    "low": 15.0,
+    "high": 25.0,
+    "tags": [
+      "event",
     ]
   },
   "`vaporwave frame`": {
