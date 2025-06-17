@@ -562,6 +562,14 @@
       "carousel"
     ]
   },
+  "`crimsonbleed frame`": {
+    "low": 45.0,
+    "high": 55.0,
+    "tags": [
+      "transparent",
+      "special"
+    ]
+  },
   "`crystal mines frame`": {
     "low": 2.0,
     "high": 3.0,
@@ -625,6 +633,14 @@
     "high": 24,
     "tags": [
       "carousel"
+    ]
+  },
+  "`deathbringer frame`": {
+    "low": 45.0,
+    "high": 55.0,
+    "tags": [
+      "transparent",
+      "special"
     ]
   },
   "`desert rose frame`": {
@@ -1871,6 +1887,14 @@
       "carousel"
     ]
   },
+  "`phantomblade frame`": {
+    "low": 45.0,
+    "high": 55.0,
+    "tags": [
+      "transparent",
+      "special"
+    ]
+  },
   "`phantoms lament frame`": {
     "low": 15,
     "high": 25,
@@ -2198,6 +2222,14 @@
     "high": 50.0,
     "tags": [
       "carousel"
+    ]
+  },
+  "`shadowborn frame`": {
+    "low": 45.0,
+    "high": 55.0,
+    "tags": [
+      "transparent",
+      "special"
     ]
   },
   "`shadow glass frame`": {
@@ -2752,6 +2784,14 @@
     "high": 20,
     "tags": [
       "carousel"
+    ]
+  },
+  "`voidspawn frame`": {
+    "low": 45.0,
+    "high": 55.0,
+    "tags": [
+      "transparent",
+      "special"
     ]
   },
   "`volcanic frame`": {
