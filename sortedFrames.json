@@ -887,6 +887,13 @@
       "carousel"
     ]
   },
+  "`fishing trip frame`": {
+    "low": 10,
+    "high": 20,
+    "tags": [
+      "event"
+    ]
+  },
   "`flame temple frame`": {
     "low": 2.0,
     "high": 3.0,
@@ -1379,6 +1386,13 @@
       "special"
     ]
   },
+  "`karuta vice frame`": {
+    "low": 10.0,
+    "high": 20.0,
+    "tags": [
+      "event"
+    ]
+  },
   "`kawaii bento frame`": {
     "low": 2.0,
     "high": 3.0,
@@ -1492,6 +1506,13 @@
     "high": 3.0,
     "tags": [
       "bit"
+    ]
+  },
+  "`macaw chief frame`": {
+    "low": 10.0,
+    "high": 20.0,
+    "tags": [
+      "event"
     ]
   },
   "`mad scientist frame`": {
@@ -2375,6 +2396,14 @@
       "event"
     ]
   },
+  "`solisfair swirl frame`": {
+    "low": 15.0,
+    "high": 30.0,
+    "tags": [
+      "transparent",
+      "event"
+    ]
+  },
   "`spaceship frame`": {
     "low": 2.0,
     "high": 3.0,
@@ -2813,6 +2842,14 @@
     "high": 50,
     "tags": [
       "carousel"
+    ]
+  },
+  "`warm rain frame`": {
+    "low": 15.0,
+    "high": 30.0,
+    "tags": [
+      "transparent",
+      "event"
     ]
   },
   "`water element frame`": {
