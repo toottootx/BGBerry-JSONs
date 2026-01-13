@@ -6,6 +6,131 @@
       "bit"
     ]
   },
+  "`crisp wind frame`": {
+    "low": 30,
+    "high": 35,
+    "tags": [
+      "transparent",
+      "event"
+    ]
+  },
+  "`enchanted star frame`": {
+    "low": 10,
+    "high": 15,
+    "tags": [
+      "transparent",
+      "event"
+    ]
+  },
+  "`warm mantle frame`": {
+    "low": 3,
+    "high": 5,
+    "tags": [
+      "event"
+    ]
+  },
+  "`boreal sparkles frame`": {
+    "low": 10,
+    "high": 15,
+    "tags": [
+      "event"
+    ]
+  },
+  "`runic frost frame`": {
+    "low": 25,
+    "high": 30,
+    "tags": [
+      "transparent",
+      "event"
+    ]
+  },
+  "`scarlet astral frame`": {
+    "low": 40,
+    "high": 50,
+    "tags": [
+      "transparent",
+      "special"
+    ]
+  },
+  "`ritual frame`": {
+    "low": 65,
+    "high": 80,
+    "tags": [
+      "transparent",
+      "special"
+    ]
+  },
+  "`titan scales frame`": {
+    "low": 40,
+    "high": 60,
+    "tags": [
+      "transparent",
+      "special"
+    ]
+  },
+  "`night lotus frame`": {
+    "low": 25,
+    "high": 45,
+    "tags": [
+      "special"
+    ]
+  },
+  "`shoji frame`": {
+    "low": 190,
+    "high": 200,
+    "tags": [
+      "transparent",
+      "special"
+    ]
+  },
+  "`archon frame`": {
+    "low": 45,
+    "high": 50,
+    "tags": [
+      "transparent",
+      "special"
+    ]
+  },
+  "`stellar frame`": {
+    "low": 50,
+    "high": 65,
+    "tags": [
+      "transparent",
+      "special"
+    ]
+  },
+  "`blaze frame`": {
+    "low": 75,
+    "high": 100,
+    "tags": [
+      "transparent",
+      "special"
+    ]
+  },
+  "`demon flame frame`": {
+    "low": 60,
+    "high": 80,
+    "tags": [
+      "transparent",
+      "special"
+    ]
+  },
+  "`celestial frame`": {
+    "low": 85,
+    "high": 100,
+    "tags": [
+      "transparent",
+      "special"
+    ]
+  },
+  "`ethereal grasp frame`": {
+    "low": 45,
+    "high": 50,
+    "tags": [
+      "transparent",
+      "special"
+    ]
+  },
   "`aerial frame`": {
     "low": 40,
     "high": 45,
