@@ -1,11 +1,4 @@
 {
-  "`abandoned church frame`": {
-    "low": 2.0,
-    "high": 3.0,
-    "tags": [
-      "bit"
-    ]
-  },
   "`crisp wind frame`": {
     "low": 30,
     "high": 35,
@@ -129,6 +122,13 @@
     "tags": [
       "transparent",
       "special"
+    ]
+  },
+  "`abandoned church frame`": {
+    "low": 2.0,
+    "high": 3.0,
+    "tags": [
+      "bit"
     ]
   },
   "`aerial frame`": {
