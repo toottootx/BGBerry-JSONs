@@ -637,8 +637,8 @@
     ]
   },
   "`cleave frame`": {
-    "low": 180,
-    "high": 200,
+    "low": 210,
+    "high": 250,
     "tags": [
       "special",
       "transparent"
@@ -688,8 +688,8 @@
     ]
   },
   "`crimsonbleed frame`": {
-    "low": 45.0,
-    "high": 55.0,
+    "low": 60.0,
+    "high": 80.0,
     "tags": [
       "transparent",
       "special"
@@ -703,8 +703,8 @@
     ]
   },
   "`crystal wings frame`": {
-    "low": 110,
-    "high": 130,
+    "low": 160,
+    "high": 180,
     "tags": [
       "special",
       "transparent"
@@ -761,8 +761,8 @@
     ]
   },
   "`deathbringer frame`": {
-    "low": 45.0,
-    "high": 55.0,
+    "low": 60.0,
+    "high": 70.0,
     "tags": [
       "transparent",
       "special"
