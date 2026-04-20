@@ -1,7 +1,54 @@
 {
-  "`crisp wind frame`": {
-    "low": 30,
+  "`moonlit bloom frame`": {
+    "low": 25,
     "high": 35,
+    "tags": [
+      "transparent",
+      "event"
+    ]
+  },
+  "`choco drizzle frame`": {
+    "low": 3,
+    "high": 5,
+    "tags": [
+      "event"
+    ]
+  },
+  "`golden nectar frame`": {
+    "low": 5,
+    "high": 15,
+    "tags": [
+      "transparent",
+      "event"
+    ]
+  },
+  "`fragrant bloom frame`": {
+    "low": 25,
+    "high": 35,
+    "tags": [
+      "transparent",
+      "event"
+    ]
+  },
+  "`luminous wings frame`": {
+    "low": 25,
+    "high": 35,
+    "tags": [
+      "transparent",
+      "event"
+    ]
+  },
+  "`pastel wisps frame`": {
+    "low": 15,
+    "high": 25,
+    "tags": [
+      "transparent",
+      "event"
+    ]
+  },
+  "`sanguine wisps frame`": {
+    "low": 15,
+    "high": 25,
     "tags": [
       "transparent",
       "event"
