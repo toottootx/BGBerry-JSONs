@@ -1,4 +1,43 @@
 {
+  "`seaglass frame`": {
+    "low": 18,
+    "high": 25,
+    "tags": [
+      "transparent",
+      "event"
+    ]
+  },
+  "`boardwalk frame`": {
+    "low": 2,
+    "high": 3,
+    "tags": [
+      "event"
+    ]
+  },
+  "`vending machine frame`": {
+    "low": 10,
+    "high": 15,
+    "tags": [
+      "transparent",
+      "event"
+    ]
+  },
+  "`golden hour frame`": {
+    "low": 13,
+    "high": 20,
+    "tags": [
+      "transparent",
+      "event"
+    ]
+  },
+  "`lagoon frame`": {
+    "low": 8,
+    "high": 15,
+    "tags": [
+      "transparent",
+      "event"
+    ]
+  },
   "`moonlit bloom frame`": {
     "low": 25,
     "high": 35,
